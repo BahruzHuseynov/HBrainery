@@ -1,6 +1,6 @@
 # HBrainery
 
-# ![Company Logo](https://link-to-your-logo.com/logo.png) Your Company Name
+# ![Company Logo](HBrainery.png) Your Company Name
 
 Welcome to the official repository of **Your Company Name**. This repository contains important documents and resources in PDF and Word formats that are essential for our operations and collaborations. 
 
