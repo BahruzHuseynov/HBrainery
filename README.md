@@ -26,20 +26,6 @@
   </tr>
 </table>
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="border: none; padding: 10px;"><img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width="200px"></td>
-    <td style="border: none; padding: 10px;">
-      <ul style="list-style: none; padding: 0; margin: 0;">
-        <li><strong>Youtube Link:</strong> <a href="https://www.youtube.com/playlist?list=PLHlNRnxy4nDN_uH7Ea-8nw4KNSzGAoFun">https://www.youtube.com/playlist?list=PLHlNRnxy4nDN_uH7Ea-8nw4KNSzGAoFun</a></li>
-        <li><strong>Qovluq:</strong> Informatics_Tests</li>
-      </ul>
-      <p>Burada HBrainery adı ilə sosial şəbəkələrdə və kanallarda paylaşılan materialları (testlər, sınaqlar, Python tapşırıqlarının həlləri və s) müxtəlif fayl formatlarında tapa və istifadə edə bilərsiniz!!!</p>
-    </td>
-  </tr>
-</table>
-
-
 ## DIM Python Proqramlaşdırma Dərsləri ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <table>
   <tr>
