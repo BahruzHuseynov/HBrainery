@@ -8,20 +8,14 @@
   </tr>
 </table>
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Folder Structure](#folder-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Contact](#contact)
+## Youtube Playlists
+- [Python Tapşırıqlar](#Python Tapşırıqlar) - https://www.youtube.com/playlist?list=PLHlNRnxy4nDMhREAV7o5PDcoPJ3b8BPd2
 
-## Introduction
+
+## Python Tapşırıqlar
 
 At **Your Company Name**, we strive to provide top-notch services and products to our clients. This repository is designed to organize and manage all our documents efficiently. Here you will find various files categorized for ease of access.
 
-## Folder Structure
-
-The repository is organized into the following folders:
 
 ### 1. **Marketing**
 Contains all marketing-related documents.
