@@ -18,8 +18,10 @@
   <tr>
     <td><img src = "https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width = "200px"></td>
     <td>
-      <li>Youtube Link --> https://www.youtube.com/playlist?list=PLHlNRnxy4nDMqyURmSHAwHdqQm52x7LsT</li>
-      <h3><p> Burada HBrainery adı ilə sosial şəbəkələrdə və kanallarda paylaşılan materialları (testlər, sınaqlar, Python tapşırıqlarının həlləri və s) müxtəlif fayl formatlarında tapa və istifadə edə bilərsiniz!!! </p></h3>
+      <li>Youtube Link -> https://www.youtube.com/playlist?list=PLHlNRnxy4nDMqyURmSHAwHdqQm52x7LsT</li>
+      <li>Qovluq: Informatics_Tests</li>
+      <dl></dl>
+      <p> Burada HBrainery adı ilə sosial şəbəkələrdə və kanallarda paylaşılan materialları (testlər, sınaqlar, Python tapşırıqlarının həlləri və s) müxtəlif fayl formatlarında tapa və istifadə edə bilərsiniz!!!</p>
     </td>
   </tr>
 </table>
