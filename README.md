@@ -3,7 +3,7 @@
     <td><img src="HBrainery.png" alt="HBrainery Logo" width = "600px"></td>
     <td>
       <h1> HBrainery </h1>
-      <h3> Burada HBrainery adı ilə sosial şəbəkələrdə və kanallarda paylaşılan materialları (testlər, sınaqlar, Python tapşırıqlarının həlləri və s) müxtəlif fayl formatlarında tapa və istifadə edə bilərsiniz!!! </h3>
+      <h3><p> Burada HBrainery adı ilə sosial şəbəkələrdə və kanallarda paylaşılan materialları (testlər, sınaqlar, Python tapşırıqlarının həlləri və s) müxtəlif fayl formatlarında tapa və istifadə edə bilərsiniz!!! </p></h3>
     </td>
   </tr>
 </table>
