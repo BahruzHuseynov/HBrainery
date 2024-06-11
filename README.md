@@ -9,15 +9,11 @@
 </table>
 
 ## Youtube Playlists
-- [Python Tapşırıqlar](#Python Tapşırıqlar) - https://www.youtube.com/playlist?list=PLHlNRnxy4nDMhREAV7o5PDcoPJ3b8BPd2
+- İnformatika Sınaq Testləri - https://www.youtube.com/playlist?list=PLHlNRnxy4nDMqyURmSHAwHdqQm52x7LsT 
+- Python Tapşırıqlar - https://www.youtube.com/playlist?list=PLHlNRnxy4nDMhREAV7o5PDcoPJ3b8BPd2
 
-
-## Python Tapşırıqlar
-
-At **Your Company Name**, we strive to provide top-notch services and products to our clients. This repository is designed to organize and manage all our documents efficiently. Here you will find various files categorized for ease of access.
-
-
-### 1. **Marketing**
+## İnformatika Sınaq Testləri
+https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif
 Contains all marketing-related documents.
 
 ![Marketing Folder](https://link-to-your-image.com/marketing-folder.png)
