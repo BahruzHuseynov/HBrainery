@@ -40,7 +40,7 @@
 ## DIM - Python Tapşırıqlar
 <table>
   <tr>
-    <td><img src = "https://media0.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=6c09b952iv2yfxp9xgg2689jk18n1no5che88euzue40w539&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width = "2000px"></td>
+    <td><img src = "https://media0.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=6c09b952iv2yfxp9xgg2689jk18n1no5che88euzue40w539&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width = "300px"></td>
     <td>
       <li>Youtube Link -> https://www.youtube.com/playlist?list=PLHlNRnxy4nDMhREAV7o5PDcoPJ3b8BPd2</li>
       <li>Qovluq -> Python Tapşırıqlar</li> <br>
