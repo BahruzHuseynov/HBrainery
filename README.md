@@ -1,4 +1,12 @@
-# HBrainery
+<table>
+  <tr>
+    <td><img src="HBrainery.png" alt="HBrainery Logo"></td>
+    <td>
+      <h1>Your Company Name</h1>
+      <p>Welcome to the official repository of <strong>Your Company Name</strong>. This repository contains important documents and resources in PDF and Word formats that are essential for our operations and collaborations.</p>
+    </td>
+  </tr>
+</table>
 
 # ![Company Logo](HBrainery.png) Your Company Name
 
