@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img src="HBrainery.png" alt="HBrainery Logo" width = "600px"></td>
+    <td><img src="HBrainery.png" alt="HBrainery Logo" width = "700px"></td>
     <td>
       <h1> HBrainery </h1>
       <p> Burada HBrainery adı ilə sosial şəbəkələrdə və kanallarda paylaşılan materialları (testlər, sınaqlar, Python tapşırıqlarının həlləri və s) müxtəlif fayl formatlarında tapa və istifadə edə bilərsiniz!!! </p>
