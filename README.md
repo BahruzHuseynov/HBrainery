@@ -26,7 +26,7 @@
   </tr>
 </table>
 
-## DIM Python Proqramlaşdırma Dərsləri ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+## DIM Python Proqramlaşdırma Dərsləri ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <table>
   <tr>
     <td><img src = "https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width = "200px"></td>
