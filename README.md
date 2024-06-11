@@ -10,8 +10,8 @@
 
 ## Youtube Playlists
 - [İnformatika Sınaq Testləri](#İnformatika-Sınaq-Testləri)
-- [DIM - Python Proqramlaşdırma Dərsləri](#DIM-Python-Proqramlaşdırma-Dərsləri)
-- [DIM - Python Tapşırıqlar](#DIM-Python-Tapşırıqlar)
+- [DIM - Python Proqramlaşdırma Dərsləri](#DIM---Python-Proqramlaşdırma-Dərsləri)
+- [DIM - Python Tapşırıqlar](#DIM---Python-Tapşırıqlar)
 
 ## İnformatika Sınaq Testləri
 <table>
