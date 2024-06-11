@@ -13,7 +13,7 @@
 - Python Tapşırıqlar - https://www.youtube.com/playlist?list=PLHlNRnxy4nDMhREAV7o5PDcoPJ3b8BPd2
 
 ## İnformatika Sınaq Testləri
-https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif
+<img src = "https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 Contains all marketing-related documents.
 
 ![Marketing Folder](https://link-to-your-image.com/marketing-folder.png)
