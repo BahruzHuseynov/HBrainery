@@ -31,7 +31,7 @@
     <td><img src = "https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width = "300px"></td>
     <td>
       <li>Youtube Link -> https://www.youtube.com/playlist?list=PLHlNRnxy4nDN_uH7Ea-8nw4KNSzGAoFun</li>
-      <li>Qovluq: Python Proqramlaşdırma Dərsləri </li> <br>
+      <li>Qovluq -> Python Proqramlaşdırma Dərsləri </li> <br>
       <p> Bu video ardıcıllıqda Dövlət Qəbul İmtahanı səviyyəsində Python proqramlaşdırma dili ilə bağlı video izahlar paylaşılır. Videoların məqsədi şagirdlərə Python proqramlaşdırma dilində kod yazmaqla bağlı məlumatlar verməkdən ibarətdir.</p>
     </td>
   </tr>
