@@ -2,15 +2,11 @@
   <tr>
     <td><img src="HBrainery.png" alt="HBrainery Logo"></td>
     <td>
-      <h1>Your Company Name</h1>
-      <p>Welcome to the official repository of <strong>Your Company Name</strong>. This repository contains important documents and resources in PDF and Word formats that are essential for our operations and collaborations.</p>
+      <h1> HBrainery </h1>
+      <p> Burada HBrainery adı ilə sosial şəbəkələrdə və kanallarda paylaşılan materialları (testlər, sınaqlar, Python tapşırıqlarının həlləri və s) müxtəlif fayl formatlarında tapa və istifadə edə bilərsiniz!!! </p>
     </td>
   </tr>
 </table>
-
-# ![Company Logo](HBrainery.png) Your Company Name
-
-Welcome to the official repository of **Your Company Name**. This repository contains important documents and resources in PDF and Word formats that are essential for our operations and collaborations. 
 
 ## Table of Contents
 - [Introduction](#introduction)
