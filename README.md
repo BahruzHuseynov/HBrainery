@@ -16,7 +16,7 @@
 ## İnformatika Sınaq Testləri
 <table>
   <tr>
-    <td><img src = "https://cdn.dribbble.com/users/957210/screenshots/2475142/untitled-2.gif" width = "200px"></td>
+    <td><img src = "https://cdn.dribbble.com/users/957210/screenshots/2475142/untitled-2.gif" width = "300px"></td>
     <td>
       <li>Youtube Link -> https://www.youtube.com/playlist?list=PLHlNRnxy4nDMqyURmSHAwHdqQm52x7LsT</li>
       <li>Qovluq -> Informatika Testlər </li> <br>
@@ -28,7 +28,7 @@
 ## DIM - Python Proqramlaşdırma Dərsləri ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <table>
   <tr>
-    <td><img src = "https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width = "200px"></td>
+    <td><img src = "https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width = "300px"></td>
     <td>
       <li>Youtube Link -> https://www.youtube.com/playlist?list=PLHlNRnxy4nDN_uH7Ea-8nw4KNSzGAoFun</li>
       <li>Qovluq: Python Proqramlaşdırma Dərsləri </li> <br>
@@ -40,7 +40,7 @@
 ## DIM - Python Tapşırıqlar
 <table>
   <tr>
-    <td><img src = "https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width = "1600px"></td>
+    <td><img src = "https://media0.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=6c09b952iv2yfxp9xgg2689jk18n1no5che88euzue40w539&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width = "2000px"></td>
     <td>
       <li>Youtube Link -> https://www.youtube.com/playlist?list=PLHlNRnxy4nDMhREAV7o5PDcoPJ3b8BPd2</li>
       <li>Qovluq -> Python Tapşırıqlar</li> <br>
