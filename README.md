@@ -20,7 +20,7 @@
     <td>
       <li>Youtube Link -> https://www.youtube.com/playlist?list=PLHlNRnxy4nDMqyURmSHAwHdqQm52x7LsT</li>
       <li>Qovluq -> Informatika Testlər </li> <br>
-      <p> Burada DİM İnformatika materiallarına uyğun testlərin izahları yayımlan;r. Videolarda informatika üzrə hazırlanan testlərin hər bir sualının təfərrüatlı izahı veriləcək. Həmçinin, mövzulara dair nəzəri biliklərin izahı, müxtəlif nümunə tapşırıqlar və onların həll yolları da burada təqdim olunacaq. Bu materiallar vasitəsilə şagirdlər və abituriyentlər informatika sahəsindəki biliklərini möhkəmləndirə və test suallarını daha yaxşı başa düşə biləcəklər.</p>
+      <p> Burada DİM İnformatika materiallarına uyğun testlərin izahları yayımlanır. Videolarda informatika üzrə hazırlanan testlərin hər bir sualının təfərrüatlı izahı veriləcək. Həmçinin, mövzulara dair nəzəri biliklərin izahı, müxtəlif nümunə tapşırıqlar və onların həll yolları da burada təqdim olunacaq. Bu materiallar vasitəsilə şagirdlər və abituriyentlər informatika sahəsindəki biliklərini möhkəmləndirə və test suallarını daha yaxşı başa düşə biləcəklər.</p>
     </td>
   </tr>
 </table>
